@@ -38,4 +38,9 @@
 </p> 
 
 ---
+
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://www.linkedin.com/
 [visitors]: https://visitor-badge.laobi.icu/badge?page_id=Adityayadav0505

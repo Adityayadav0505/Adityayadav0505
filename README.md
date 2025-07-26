@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/aditya-yadav-86244b19a/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="" target="_blank">
+<a href="https://x.com/AdityaY97172592" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=7737975750">

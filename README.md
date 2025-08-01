@@ -8,9 +8,7 @@
 
 <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityayadav0505&layout=compact&theme=dark)
-	
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityayadav0505&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide=javascript,css&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityayadav0505&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityayadav0505&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true" width="45%" />
 </p>
